@@ -7,7 +7,7 @@ export function Header() {
  return (
   <div className="header">
    <h1 className="header__title">
-    Ход торгов{' '}
+    Ход торгов
     <strong>
      Тестовые торги на аппарат ЛОТОС 2033564
      <span>
